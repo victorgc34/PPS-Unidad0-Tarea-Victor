@@ -8,7 +8,7 @@ Lo que realizaremos en este apartado será lo siguiente:
 2. **Inicialización del repositorio local**
 3. **Creación del repositorio en Github**
 
-### 1.0 Creación de la estructura del repositorio
+## 1.0 Creación de la estructura del repositorio
 
 Lo primero que haremos sería definir la estructura que tendrá nuestro proyecto. Para ello, crearemos un conjunto de archivo y carpetas que nos será útiles en los próximos apartados.
 
@@ -17,8 +17,8 @@ La estructura que tendrá este proyecto será la siguiente:
 - **docs**
     - img
         - imagenes.jpg
-    - [**index.md**](http://index.md)
-    - [git.md](http://git.md) (Donde esta escrito este apartado)
+    - index.md
+    - git.md (Donde esta escrito este apartado)
     - gitActions.md
     - docker.md
     - conclusiones.md
@@ -31,7 +31,7 @@ La estructura que tendrá este proyecto será la siguiente:
 
 imagen tree -a
 
-### 2.0 Inicialización del repositorio local
+## 2.0 Inicialización del repositorio local
 
 Lo que haremos será inicial el repositorio en la raiz de nuestra carpeta del proyecto. El comando que utilizaremos será el siguiente:
 
@@ -41,7 +41,7 @@ git init
 
 Imange init
 
-**2.1 Añadimos todos los archivos** 
+### 2.1 Añadimos todos los archivos
 
 En este paso, añadiremos todos los archivos de nuestro repositorio para que en nuestro primer commint, se suban al repositorio.
 
@@ -51,7 +51,7 @@ git add .
 
 Imange git add
 
-**2.2 Creación de la primera “instantánea” de nuestro repositorio**
+### 2.2 Creación de la primera “instantánea” de nuestro repositorio
 
 Para crear nuestro primer commint, tendremos utilizar este comando, en el cual indicaremos el motivo de este.
 
@@ -61,7 +61,7 @@ git commit -am "Inicio del repositorio"
 
 Imagen del commint
 
-### **3.0 Creación del repositorio en Github**
+## 3.0 Creación del repositorio en Github
 
 Aquí, crearemos el nuestro repositorio en la nube y lo vincula con el repositorio local previamente creado. Para ello, tendremos que indicar nuestro “***nombre de usuario de github”***  y ***“Nombre del repositorio a crear”***. Además, antes de crearlo, le indicaremos la rama a la que apuntamos.
 
