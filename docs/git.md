@@ -29,7 +29,7 @@ La estructura que tendrá este proyecto será la siguiente:
 - README.md
 - requiriments.txt
 
-imagen tree -a
+![](img/git/tree.png)
 
 ## 2.0 Inicialización del repositorio local
 
