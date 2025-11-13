@@ -70,7 +70,6 @@ git branch -M main
 gh repo create nombre-usuario/nombre-repositorio --public --source=. --remote=origin --push
 ```
 
-![](img/git/main.png)
 ![](img/git/repo-create.png)
 
 Con todo esto, ya tenemos nuestro repositorio creado y lista para trabajar en el.
