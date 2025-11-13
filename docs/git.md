@@ -39,7 +39,7 @@ Lo que haremos será inicial el repositorio en la raiz de nuestra carpeta del pr
 git init
 ```
 
-Imange init
+![](img/git/init.png)
 
 ### 2.1 Añadimos todos los archivos
 
@@ -49,7 +49,7 @@ En este paso, añadiremos todos los archivos de nuestro repositorio para que en 
 git add .
 ```
 
-Imange git add
+![](img/git/add.png)
 
 ### 2.2 Creación de la primera “instantánea” de nuestro repositorio
 
@@ -59,7 +59,7 @@ Para crear nuestro primer commint, tendremos utilizar este comando, en el cual i
 git commit -am "Inicio del repositorio"
 ```
 
-Imagen del commint
+![](img/git/commint.png)
 
 ## 3.0 Creación del repositorio en Github
 
@@ -70,6 +70,9 @@ git branch -M main
 gh repo create nombre-usuario/nombre-repositorio --public --source=. --remote=origin --push
 ```
 
-Imange repo create
+![](img/git/main.png)
+![](img/git/repo-create.png)
 
 Con todo esto, ya tenemos nuestro repositorio creado y lista para trabajar en el.
+
+![](img/git/github.png)
