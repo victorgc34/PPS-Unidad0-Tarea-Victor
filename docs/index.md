@@ -18,7 +18,7 @@ A continuación se presenta un índice con enlaces al resto de documentos inclui
 
 ## **1. Git y creación del repositorio**
 
-- [index.md](index.md)
+- [git.md](git.md)
     - Documentación del proceso de creación del repositorio y las principales operaciones realizadas con Git y GitHub.
 
 ## **2. Creación de WorkFlow de `GitHub Actions` y Vinculación con GitHub Pages**
