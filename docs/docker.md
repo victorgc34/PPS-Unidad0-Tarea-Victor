@@ -4,7 +4,7 @@ En este apartado, se detalla la creación y configuración de un contenedor a tr
 
 ## 1.0 Creación de un contenedor
 
-Como se indica en el anterior texto, utilizaremos **Docker Compose** como nuestro ****lanzador del contenedor. Para ello, tendremos que crear un archivo, que se debe llamar `docker-compose.yml`  el cual almacenaremos dentro de nuestra carpeta ./**docker-compose.**
+Como se indica en el anterior texto, utilizaremos **Docker Compose** como nuestro lanzador del contenedor. Para ello, tendremos que crear un archivo, que se debe llamar `docker-compose.yml`  el cual almacenaremos dentro de nuestra carpeta ./**docker-compose.**
 
 Esta carpeta debe de contener lo siguiente:
 
