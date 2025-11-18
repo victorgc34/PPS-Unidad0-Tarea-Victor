@@ -1,0 +1,3 @@
+# Conclusiones
+La realización de esta tarea permitió familiarizarse con herramientas como **Git, GitHub Actions, MkDocs y Docker**, y entender cómo se pueden integrar en un flujo de trabajo básico. Aunque hubo retos durante la configuración de la automatización y el despliegue, se logró completar el proyecto y documentar cada fase del proceso.
+El proyecto sirvió para reforzar conceptos prácticos sobre control de versiones, generación de documentación y uso de contenedores, mostrando la importancia de organizar el trabajo y seguir pasos claros para que todo funcione de manera correcta, aunque aún queda margen para mejorar la eficiencia y la automatización en futuros proyectos.
